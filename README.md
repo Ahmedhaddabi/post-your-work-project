@@ -32,6 +32,10 @@ pip install pandas numpy
 
 This could include:
 
+### Project Structure
+- bikeshare.py: Main script that runs the analysis
+- README.md: Project documentation
+- .gitignore: Excludes CSV data files from version control
 - Step-by-step instructions for installing or setting up your project.
 - Any software dependencies that need to be installed.
 - Instructions and examples for how to use your project, including any helpful code snippets.
