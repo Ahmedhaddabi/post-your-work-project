@@ -3,7 +3,30 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+## Bikeshare Project
+
+This project analyzes bikeshare data to explore how people use bike-sharing systems.
+It allows users to filter data by city, month, and day of the week, and provides
+statistics on travel time, stations, trip duration, and user demographics.
+
+### How to Use
+1. Run the bikeshare Python script.
+2. Select a city to analyze.
+3. Choose a specific month or day to filter the data.
+4. Review the displayed statistics in the terminal.
+
+### Data
+The data files used in this project are CSV files and are excluded from version control
+using a .gitignore file.
+
+### Requirements
+- Python 3.x
+- pandas
+- numpy
+
+Install required libraries using:
+pip install pandas numpy
+
 
 ## Information about how to use your project
 
